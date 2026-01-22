@@ -23,6 +23,7 @@ li,
 blockquote {
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 a {
@@ -35,4 +36,10 @@ img {
 
 button {
   font: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  text-align: inherit;
 }
